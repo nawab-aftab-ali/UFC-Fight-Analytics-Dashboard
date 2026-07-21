@@ -14,11 +14,11 @@ This project is an interactive Power BI dashboard built using UFC fight data. It
 
 ### Advanced Analytics Dashboard
 
-![Advanced Analytics Dashboard]()
+![Advanced Analytics Dashboard](https://github.com/nawab-aftab-ali/UFC-Fight-Analytics-Dashboard/blob/main/UFC%20Advanced%20Analytics%20Dashboard.png?raw=true)
 
 ### Fighter Performance Dashboard
 
-![Fighter Performance Dashboard](IMAGE_URL_3)
+![Fighter Performance Dashboard]()
 
 ---
 
