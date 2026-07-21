@@ -18,7 +18,7 @@ This project is an interactive Power BI dashboard built using UFC fight data. It
 
 ### Fighter Performance Dashboard
 
-![Fighter Performance Dashboard]()
+![Fighter Performance Dashboard](https://github.com/nawab-aftab-ali/UFC-Fight-Analytics-Dashboard/blob/main/UFC%20Fighter%20Performance%20Dashboard.png?raw=true)
 
 ---
 
